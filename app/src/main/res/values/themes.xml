@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GitHubSearch" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.GitHubSearchApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Add any customizations if needed -->
+    </style>
+</resources>
